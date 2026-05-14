@@ -111,5 +111,5 @@ Faster and more accurate reporting process
 
 6.Screenshort / Demos
 Show what the dashboard looks like.
-Example:https://github.com/LPraveenkumar15/CHOCOLATE-SALES-ANALYSIS-DASHBOARD/blob/main/CHOCOLATE%20SALES%20ANALYSIS.png
-        
+Example:(https://github.com/LPraveenkumar15/CHOCOLATE-SALES-ANALYSIS-DASHBOARD/blob/main/CHOCOLATE%20SALES%20ANALYSIS.png)
+        (https://github.com/LPraveenkumar15/CHOCOLATE-SALES-ANALYSIS-DASHBOARD/blob/main/CHOCOLATE%20SALES%20ANALYSIS%202.png)
